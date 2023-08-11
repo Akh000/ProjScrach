@@ -1,0 +1,5 @@
+INFO     Test_Login_001:test_login.py:11 Testcase test_page_title_001 is started
+INFO     Test_Login_001:test_login.py:12 Opening browser
+INFO     Test_Login_001:test_login.py:14 Page Title is OrangeHRM
+INFO     Test_Login_001:test_login.py:16 Taking screenshot
+INFO     Test_Login_001:test_login.py:19 Testcase test_page_title_001 is passed

@@ -1,0 +1,29 @@
+2023-08-10 16:55:14,827 : INFO : Test_Login_001 : test_title_page : 11 : Testcase test_page_title_001 is started
+2023-08-10 16:55:14,827 : INFO : Test_Login_001 : test_title_page : 12 : Opening browser
+2023-08-10 16:55:14,923 : INFO : Test_Login_001 : test_title_page : 14 : Page Title is OrangeHRM
+2023-08-10 16:55:14,939 : INFO : Test_Login_001 : test_title_page : 16 : Taking screenshot
+2023-08-10 16:55:15,134 : INFO : Test_Login_001 : test_title_page : 19 : Testcase test_page_title_001 is passed
+2023-08-10 16:56:11,915 : INFO : Test_Login_001 : test_login_002 : 28 : Testcase test_login_002 is started
+2023-08-10 16:56:11,915 : INFO : Test_Login_001 : test_login_002 : 29 : Opening browser
+2023-08-10 16:56:11,915 : INFO : Test_Login_001 : test_login_002 : 32 : Entering Username
+2023-08-10 16:56:52,768 : INFO : Test_Login_001 : test_login_002 : 34 : Entering password
+2023-08-10 16:56:56,423 : INFO : Test_Login_001 : test_login_002 : 36 : Clicking in login button
+2023-08-10 16:57:06,491 : INFO : Test_Login_001 : test_login_002 : 38 : Checking Dashboard Logo
+2023-08-10 16:57:53,134 : INFO : Test_Login_001 : test_login_002 : 40 : taking screenshot
+2023-08-10 16:57:55,590 : INFO : Test_Login_001 : test_login_002 : 43 : Clicking on Menu button
+2023-08-10 16:57:55,606 : INFO : Test_Login_001 : test_login_002 : 45 : Clicking on logout button
+2023-08-11 11:03:34,280 : INFO : Test_Login_001 : test_title_page : 11 : Testcase test_page_title_001 is started
+2023-08-11 11:03:34,289 : INFO : Test_Login_001 : test_title_page : 12 : Opening browser
+2023-08-11 11:03:34,336 : INFO : Test_Login_001 : test_title_page : 14 : Page Title is OrangeHRM
+2023-08-11 11:03:34,344 : INFO : Test_Login_001 : test_title_page : 16 : Taking screenshot
+2023-08-11 11:03:34,584 : INFO : Test_Login_001 : test_title_page : 19 : Testcase test_page_title_001 is passed
+
+2023-08-11 11:04:11,055 : INFO : Test_Login_001 : test_login_002 : 28 : Testcase test_login_002 is started
+2023-08-11 11:04:11,055 : INFO : Test_Login_001 : test_login_002 : 29 : Opening browser
+2023-08-11 11:04:11,055 : INFO : Test_Login_001 : test_login_002 : 32 : Entering Username
+2023-08-11 11:04:14,344 : INFO : Test_Login_001 : test_login_002 : 34 : Entering password
+2023-08-11 11:04:15,050 : INFO : Test_Login_001 : test_login_002 : 36 : Clicking in login button
+2023-08-11 11:04:17,813 : INFO : Test_Login_001 : test_login_002 : 38 : Checking Dashboard Logo
+2023-08-11 11:04:20,180 : INFO : Test_Login_001 : test_login_002 : 40 : taking screenshot
+2023-08-11 11:04:24,235 : INFO : Test_Login_001 : test_login_002 : 43 : Clicking on Menu button
+2023-08-11 11:04:28,102 : INFO : Test_Login_001 : test_login_002 : 45 : Clicking on logout button

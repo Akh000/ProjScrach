@@ -1,0 +1,9 @@
+INFO     Test_Login_001:test_login.py:28 Testcase test_login_002 is started
+INFO     Test_Login_001:test_login.py:29 Opening browser
+INFO     Test_Login_001:test_login.py:32 Entering Username
+INFO     Test_Login_001:test_login.py:34 Entering password
+INFO     Test_Login_001:test_login.py:36 Clicking in login button
+INFO     Test_Login_001:test_login.py:38 Checking Dashboard Logo
+INFO     Test_Login_001:test_login.py:40 taking screenshot
+INFO     Test_Login_001:test_login.py:43 Clicking on Menu button
+INFO     Test_Login_001:test_login.py:45 Clicking on logout button
