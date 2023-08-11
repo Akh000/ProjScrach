@@ -42,6 +42,7 @@ class Test_Login_001:
                                         "Best\\Screenshot\\test_login_002(Pass).png")
             self.log.info("Clicking on Menu button")
             self.lp.logout_menu()
+            time.sleep(10)
             self.log.info("Clicking on logout button")
             self.lp.logout()
             self.log.info("Testcase test_login_002 is passed\n\n")
